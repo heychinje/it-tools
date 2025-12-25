@@ -1,0 +1,12 @@
+/Users/hqzheng/code/it-tools/src-tauri/target/release/deps/ico-1a034228e3f19b14.d: /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/lib.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/macros.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/bmpdepth.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/icondir.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/image.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/restype.rs
+
+/Users/hqzheng/code/it-tools/src-tauri/target/release/deps/libico-1a034228e3f19b14.rlib: /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/lib.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/macros.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/bmpdepth.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/icondir.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/image.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/restype.rs
+
+/Users/hqzheng/code/it-tools/src-tauri/target/release/deps/libico-1a034228e3f19b14.rmeta: /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/lib.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/macros.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/bmpdepth.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/icondir.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/image.rs /Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/restype.rs
+
+/Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/lib.rs:
+/Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/macros.rs:
+/Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/bmpdepth.rs:
+/Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/icondir.rs:
+/Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/image.rs:
+/Users/hqzheng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ico-0.4.0/src/restype.rs:

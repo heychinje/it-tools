@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drag Test</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background: #f0f0f0;
+        }
+        
+        .titlebar {
+            height: 40px;
+            background: #333;
+            color: white;
+            display: flex;
+            align-items: center;
+            padding: 0 20px;
+            -webkit-app-region: drag;
+            cursor: move;
+        }
+        
+        .content {
+            padding: 20px;
+        }
+        
+        .drag-area {
+            width: 200px;
+            height: 100px;
+            background: #007acc;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 20px 0;
+            -webkit-app-region: drag;
+            cursor: move;
+            font-weight: bold;
+        }
+        
+        .button {
+            padding: 10px 20px;
+            background: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+            -webkit-app-region: no-drag;
+        }
+    </style>
+</head>
+<body>
+    <div class="titlebar">
+        Drag this titlebar to move window
+    </div>
+    
+    <div class="content">
+        <h1>Window Dragging Test</h1>
+        
+        <div class="drag-area">
+            🖱️ DRAG THIS AREA
+        </div>
+        
+        <p>This is a minimal test to check if window dragging works at all.</p>
+        
+        <button class="button" onclick="window.close()">Close Window</button>
+    </div>
+    
+    <script>
+        console.log('🔍 Tauri API available:', !!window.__TAURI__);
+        
+        if (window.__TAURI__) {
+            console.log('✅ Running in Tauri environment');
+        } else {
+            console.log('❌ Not in Tauri environment');
+        }
+    </script>
+</body>
+</html>
